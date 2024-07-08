@@ -19,16 +19,16 @@ The Data Cleaning and Preparation phase aims to ensure that the AgEvidence datas
 4. Removing Duplicates: Checked for and removed any duplicate entries in the dataset to maintain data integrity.
 5. Data Filtering: Filtered the dataset based on relevant variables (e.g., group_level1 = Crop Yields, group_level2 = Yields) to focus specifically on crop yield data.
 
-6. ### Questions that Guided the Exploratory Data Analysis (EDA) helps you understand the dataset and discover patterns, trends, and relationships within the data.
-7. 1.  What is the structure of the dataset?
+ ### Questions that Guided the Exploratory Data Analysis (EDA) helps you understand the dataset and discover patterns, trends, and relationships within the data.
+ 1.  What is the structure of the dataset?
      - How many rows and columns are there?
     -  What are the data types of each column?
   
-   2. Are there missing values?
+2. Are there missing values?
       - Which columns have missing values?
       - What percentage of values is missing in each column?
      
-  3. What crops are used in monocropping and intercropping?
+3. What crops are used in monocropping and intercropping?
 4. How do crop yields for monocropping and intercropping compare?
 
 ### Results and Findings
