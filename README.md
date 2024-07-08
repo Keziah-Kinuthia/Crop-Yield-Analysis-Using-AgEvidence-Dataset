@@ -22,7 +22,7 @@ The Data Cleaning and Preparation phase aims to ensure that the AgEvidence datas
  ### Questions that Guided the Exploratory Data Analysis (EDA) helps you understand the dataset and discover patterns, trends, and relationships within the data.
  1.  What is the structure of the dataset?
      - How many rows and columns are there?
-    -  What are the data types of each column?
+     - What are the data types of each column?
   
 2. Are there missing values?
       - Which columns have missing values?
