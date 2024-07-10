@@ -14,12 +14,12 @@ The Data Cleaning and Preparation phase aims to ensure that the AgEvidence datas
 
 #### Steps Taken
 1. Data Loading: The primary dataset, ContinuousCover_Kenya_Results.csv, was loaded into a Pandas DataFrame for initial inspection.
-2. Handling Missing Data: Identified and handled missing values by either imputing with appropriate measures
+2. Handling Missing Data: Identified and handled missing values by imputing with appropriate measures
 3. Data Formatting: Ensured all columns were correctly typed (e.g., numeric columns for quantitative data, categorical columns as appropriate).
 4. Removing Duplicates: Checked for and removed any duplicate entries in the dataset to maintain data integrity.
 5. Data Filtering: Filtered the dataset based on relevant variables (e.g., group_level1 = Crop Yields, group_level2 = Yields) to focus specifically on crop yield data.
 
- ### Questions that Guided the Exploratory Data Analysis (EDA) helps you understand the dataset and discover patterns, trends, and relationships within the data.
+ ### Questions that Guided the Exploratory Data Analysis (EDA) to understand the dataset and discover patterns, trends, and relationships within the data.
  1.  What is the structure of the dataset?
      - How many rows and columns are there?
      - What are the data types of each column?
